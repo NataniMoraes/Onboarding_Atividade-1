@@ -28,16 +28,11 @@ Conforme validado no ambiente de desenvolvimento:
 ### 3. Mobile (Flutter)
 * **Diretório:** `/mobile_app`
 * **Execução:** `flutter run`
-* **Dispositivo:** Connected devices:
-    Windows (desktop) • windows • windows-x64    • Microsoft Windows [versÆo 10.0.26200.7171]
-    Chrome (web)      • chrome  • web-javascript • Google Chrome 142.0.7444.176
-    Edge (web)        • edge    • web-javascript • Microsoft Edge 142.0.3595.94
-    [1]: Windows (windows)
-    [2]: Chrome (chrome)
-    [3]: Edge (edge)
+* **Dispositivo:** Connected devices: `[1]: Windows (windows) [2]: Chrome (chrome) [3]: Edge (edge)`
 
-## Dificuldades Encontradas e Soluções
+## Dificuldades Encontradas
 Durante a configuração, enfrentei um desafio com o **Android SDK** devido ao meu usuário do Windows conter espaços.
 
 ## Screenshots
 As capturas de tela solicitadas na atividade (IDEs abertas, DBeaver conectado e apps rodando) estão salvas na pasta `/docs` deste repositório.
+

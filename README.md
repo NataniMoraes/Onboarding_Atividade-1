@@ -1,6 +1,6 @@
 # Onboarding - Atividade 1: Configuração do Ambiente
 
-Este repositório contém os projetos iniciais configurados para o processo de Onboarding da IntegrAll Tech.
+Este repositório contém os projetos iniciais configurados para o processo de Onboarding da IntegrAllTech.
 
 ## Versões Instaladas
 Conforme validado no ambiente de desenvolvimento:

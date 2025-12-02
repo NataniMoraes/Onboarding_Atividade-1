@@ -31,7 +31,7 @@ Conforme validado no ambiente de desenvolvimento:
 * **Dispositivo:** Connected devices: `[1]: Windows (windows) [2]: Chrome (chrome) [3]: Edge (edge)`
 
 ## Dificuldades Encontradas
-Durante a configuração, enfrentei um desafio com o **Android SDK** devido ao meu usuário do Windows conter espaços.
+Diversos. Um exemplo foi durante a configuração mobile, com o **Android SDK** devido ao meu usuário do Windows conter espaços. 
 
 ## Screenshots
 As capturas de tela solicitadas na atividade (IDEs abertas, DBeaver conectado e apps rodando) estão salvas na pasta `/docs` deste repositório.
